@@ -3,5 +3,7 @@
 def countdown
   x = 100
   
-  while x <
+  while x < 100 do
+    x -= 1
+  end
 end
